@@ -11,4 +11,4 @@
 
 сеть.
 
-![image]()
+![Grafana](https://github.com/user-attachments/assets/980d92d2-4b13-41ef-9f70-59a2363f866c)
